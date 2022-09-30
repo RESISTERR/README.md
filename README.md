@@ -1,6 +1,9 @@
-<!-- Telegram Profile and Profile view count -->
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%40RESISTERR-9cf?style=plastic&logo=telegram)](https://t.me/RESISTERR) 
-![](https://komarev.com/ghpvc/?username=RESISTERR)
-<!-- GitHub stats -->
-![GitHub 
-!Stats](https://github-readme-stats.vercel.app/api?username=Heroes32&count_private=true&show_icons=true&include_all_commits=true&theme=swift&border_radius=30&layout=compact)
+## Hi there 👋
+
+[![RESISTERR gitstats](https://github-readme-stats.vercel.app/api?username=RESISTERR&theme=nord&layout=compact)](https://github.com/RESISTERR)
+
+## About Me
+
+- 👯 I’m not looking to collaborate anything
+- 📫 How to reach me: [Telegram](https://t.me/RESISTERR) | [Mail](anggaalfian345@gmail.com)
+- 😄 Pronouns: He/Him
